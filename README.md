@@ -4,8 +4,7 @@
 **Ms. Nicolás Baier - Tecnólogo Médico**  
 **26 de Junio 2025**
 ## VIDEO : https://f002.backblazeb2.com/file/tecmedhub/Ingenier%C3%ADa+de+Prompts.mp4
-<video src="o 2025**
-## VIDEO : https://f002.backblazeb2.com/file/tecmedhub/Ingenier%C3%ADa+de+Prompts.mp4" width="320" height="240" controls></video>
+<video src="https://f002.backblazeb2.com/file/tecmedhub/Ingenier%C3%ADa+de+Prompts.mp4" width="320" height="240" controls></video>
 
 ---
 
